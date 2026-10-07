@@ -102,6 +102,7 @@ https://www.coderjia.cn/archives/dba3f94c-a021-468a-8ac6-e840f85867ea
 [图片处理](https://www.gaituya.com/)  
 [PDF处理](https://tools.pdf24.org/)  
 [音视频PDF处理](https://123apps.com/cn/)  
+- [Practical Web Tools](https://practicalwebtools.com/) - 1,400+ free browser tools: PDF editing/conversion, image & audio converters, 200+ calculators. All client-side, no uploads  
 [Cover Page（封面制作）](https://www.coverpage.one/image)  
 [Unblurimage（无损放大）](https://unblurimage.ai/zh/)  
 [图片批量调整](https://easyresizer.com/zh-cn/)  
